@@ -2,12 +2,12 @@
   display: flex;
   font-family: monospace;
   background: papayawhip;
+  justify-content: center;
+  align-content: center;
 }
 
 .logo {
   display: flex;
-  justify-content: center;
-  align-content: center;
   font-size: 48px;
   font-weight: 900;
   color: tomato;
