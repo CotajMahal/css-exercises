@@ -10,7 +10,7 @@ body {
 
 .header {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-content: center;
   background: white;
   border-bottom: 1px solid #ddd;
@@ -26,10 +26,13 @@ body {
 }
 
 .logo {
+  display: flex;
   color: rebeccapurple;
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
+  padding: 4px 8px;
+  align-content: center;
 }
 
 button {
