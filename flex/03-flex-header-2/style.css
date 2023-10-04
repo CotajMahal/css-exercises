@@ -33,6 +33,7 @@ body {
   font-style: italic;
   padding: 4px 8px;
   align-content: center;
+  justify-content: space-around;
 }
 
 button {
