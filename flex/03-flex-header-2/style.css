@@ -10,7 +10,7 @@ body {
 
 .header {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   align-content: center;
   background: white;
   border-bottom: 1px solid #ddd;
