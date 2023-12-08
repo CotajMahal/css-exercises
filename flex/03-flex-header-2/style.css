@@ -57,4 +57,11 @@ ul {
   display: flex;
   margin: 0;
   padding: 0;
+  gap: 16px;
+}
+
+.right links, .left links {
+display: flex; 
+align-items: center; 
+gap: 16px
 }
