@@ -18,7 +18,8 @@ img {
 
 .info {
   max-width: 200px;
- 
+  display: flex;
+  align-content: space-between;
 }
 
 .container {
