@@ -1,5 +1,6 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  text-align: center;
 }
 
 img {
@@ -15,7 +16,7 @@ img {
 }
 
 .info {
- 
+
   max-width: 200px;
 }
 
