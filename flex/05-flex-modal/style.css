@@ -23,6 +23,8 @@ body {
 }
 
 
+
+
 .icon {
   color: royalblue;
   font-size: 26px;
@@ -35,6 +37,7 @@ body {
   align-items: center;
   justify-content: center;
   align-self: flex-start;
+  flex-shrink: 0;
   
 }
 
