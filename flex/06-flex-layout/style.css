@@ -9,6 +9,13 @@ body {
 
 img {
   width: 600px;
+  justify-self: center;
+}
+
+.header {
+  display: flex;
+  align-content: space-between;
+  justify-content: space-between;
 }
 
 button {
