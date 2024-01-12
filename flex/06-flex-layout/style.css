@@ -10,6 +10,8 @@ body {
 img {
   width: 600px;
   justify-self: center;
+  align-self: center;
+  display: flex;
 }
 
 .header {
